@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Sagar",
+    "age": 22,
+    "Sex": "Male",
+    "Stream": "CS",
+    "username": "Sagar_guglani"
+  },
+  {
+    "username": "Sarthak",
+    "name": "Sarthak",
+    "age": 21,
+    "sex": "Male",
+    "stream": "EN"
+  },
+  {
+    "name": "Yogesh",
+    "age": 20,
+    "sex": "Male",
+    "stream": "IT",
+    "username": "Bhatia"
+  }
+]

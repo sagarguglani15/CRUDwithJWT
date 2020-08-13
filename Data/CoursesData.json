@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "maths",
+    "enrolledStudents": [
+      "Bhatia"
+    ],
+    "availableSlots": 1
+  },
+  {
+    "id": 1,
+    "name": "science",
+    "enrolledStudents": [],
+    "availableSlots": 1
+  },
+  {
+    "id": 2,
+    "name": "cs",
+    "enrolledStudents": [],
+    "availableSlots": 1
+  }
+]
